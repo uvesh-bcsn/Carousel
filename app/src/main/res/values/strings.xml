@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Carousel</string>
+    <string name="asset_statements">
+  [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+      \"namespace\": \"web\",
+      \"site\": \"https://example.com\"
+    }
+  }]
+</string>
+    <string name="title_activity_deep_link">DeepLinkActivity</string>
+</resources>
